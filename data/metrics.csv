@@ -1,0 +1,1068 @@
+report_month,metric,category,permit_type,is_category_total,last_3mo,last_6mo,last_12mo,source_url
+2025-01,avg_days,,Residential (Legacy),False,54,101,63,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,Residential Addition,False,69,97,114,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,Residential Alteration,False,52,73,84,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,Residential Demolition Permit,False,79,94,109,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,Residential Emergency Demo/Repair/Reconstruction,False,,,35,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,Residential Move Permit,False,,,32,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,Residential New Construction,False,60,84,98,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,Residential Solar Water Heater Permit,False,46,52,55,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,Residential Swimming Pool/Hot Tub/Jacuzzi,False,71,78,102,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,Non-Res Emergency Demo/Repair/Reconstruction,False,,27,61,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,NonResidential (Legacy),False,2,20,34,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,Non-Residential Addition,False,,137,193,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,Non-Residential Alteration,False,47,91,105,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,Non-Residential Demolition Permit,False,110,96,123,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,Non-Residential Move Permit,False,,,0,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,Non-Residential New Construction,False,64,82,95,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,,,63,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,Non-Residential Electrical Only Permit,False,36,55,68,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,Residential Electrical Only Permit,False,41,42,50,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,Non-Residential Plumbing Only Permit,False,32,42,49,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,Residential Plumbing Only Permit,False,,46,52,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,Residential PV Permit,False,46,67,70,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,avg_days,,Non-Residential PV Permit,False,57,77,115,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,Residential,,True,609,879,1533,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,Residential,Residential (Legacy),False,3,4,8,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,Residential,Residential Addition,False,33,49,83,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,Residential,Residential Alteration,False,43,69,88,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,Residential,Residential Demolition Permit,False,19,25,46,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,Residential,Residential Emergency Demo/Repair/Reconstruction,False,0,0,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,Residential,Residential Move Permit,False,0,0,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,Residential,Residential New Construction,False,421,596,1098,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,Residential,Residential Solar Water Heater Permit,False,43,75,128,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,Residential,Residential Swimming Pool/Hot Tub/Jacuzzi,False,47,61,80,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,NonResidential/Commercial,,True,125,233,383,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,NonResidential/Commercial,NonRes (Legacy),False,1,7,10,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,NonResidential/Commercial,Non-Res Emergency Demo/Repair/Reconstruction,False,1,4,11,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,NonResidential/Commercial,Non-Residential Addition,False,4,4,6,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,NonResidential/Commercial,Non-Residential Alteration,False,85,170,263,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,NonResidential/Commercial,Non-Residential Demolition Permit,False,4,7,13,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,NonResidential/Commercial,Non-Residential New Construction,False,29,40,79,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,NonResidential/Commercial,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,1,1,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,Electric Only,,True,196,328,601,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,Electric Only,Non-Residential Electrical Only Permit,False,48,76,139,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,Electric Only,Residential Electrical Only Permit,False,148,252,462,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,Plumbing Only,,True,15,35,69,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,Plumbing Only,Non-Residential Plumbing Only Permit,False,11,21,28,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,Plumbing Only,Residential Plumbing Only Permit,False,4,14,41,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,PV - Residential,,True,629,916,1436,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,PV - Residential,Residential PV Permit,False,629,916,1436,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,PV - NonResidential/Commercial,,True,33,37,49,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,PV - NonResidential/Commercial,Non-Residential PV Permit,False,33,37,49,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-01,count,TOTAL,,True,1607,2428,4071,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145967&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Residential (Legacy),False,27,43,53,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Residential Addition,False,55,93,117,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Residential Alteration,False,67,76,81,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Residential Demolition Permit,False,63,82,102,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Residential Emergency Demo/Repair/Reconstruction,False,,,37,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Residential Move Permit,False,,,76,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Residential New Construction,False,51,79,96,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Residential Solar Water Heater Permit,False,43,49,54,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Residential Swimming Pool/Hot Tub/Jacuzzi,False,55,73,100,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Non-Res Emergency Demo/Repair/Reconstruction,False,,25,66,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,NonResidential (Legacy),False,2,3,35,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Non-Residential Addition,False,,,191,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Non-Residential Alteration,False,53,74,106,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Non-Residential Demolition Permit,False,53,72,119,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Non-Residential Move Permit,False,,,0,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Non-Residential New Construction,False,66,80,107,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,,,63,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Non-Residential Electrical Only Permit,False,40,53,64,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Residential Electrical Only Permit,False,31,43,48,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Non-Residential Plumbing Only Permit,False,38,55,54,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Residential Plumbing Only Permit,False,32,52,50,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Residential PV Permit,False,41,59,70,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,avg_days,,Non-Residential PV Permit,False,48,64,95,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,Residential,,True,575,926,1581,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,Residential,Residential (Legacy),False,4,4,9,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,Residential,Residential Addition,False,28,46,82,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,Residential,Residential Alteration,False,38,79,100,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,Residential,Residential Demolition Permit,False,18,26,45,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,Residential,Residential Emergency Demo/Repair/Reconstruction,False,0,0,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,Residential,Residential New Construction,False,407,645,1130,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,Residential,Residential Solar Water Heater Permit,False,38,63,131,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,Residential,Residential Swimming Pool/Hot Tub/Jacuzzi,False,42,63,83,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,NonResidential/Commercial,,True,128,220,392,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,NonResidential/Commercial,NonRes (Legacy),False,1,7,10,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,NonResidential/Commercial,Non-Res Emergency Demo/Repair/Reconstruction,False,1,3,11,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,NonResidential/Commercial,Non-Residential Addition,False,3,4,6,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,NonResidential/Commercial,Non-Residential Alteration,False,94,155,272,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,NonResidential/Commercial,Non-Residential Demolition Permit,False,4,5,13,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,NonResidential/Commercial,Non-Residential New Construction,False,25,45,79,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,NonResidential/Commercial,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,0,1,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,Electric Only,,True,146,275,619,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,Electric Only,Non-Residential Electrical Only Permit,False,30,68,138,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,Electric Only,Residential Electrical Only Permit,False,116,207,481,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,Plumbing Only,,True,14,35,70,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,Plumbing Only,Non-Residential Plumbing Only Permit,False,9,22,28,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,Plumbing Only,Residential Plumbing Only Permit,False,5,13,42,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,PV - Residential,,True,439,887,1427,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,PV - Residential,Residential PV Permit,False,439,887,1427,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,PV - NonResidential/Commercial,,True,19,40,51,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,PV - NonResidential/Commercial,Non-Residential PV Permit,False,19,40,51,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-02,count,TOTAL,,True,1321,2383,4140,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=145968&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Residential (Legacy),False,12,34,50,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Residential Addition,False,53,82,108,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Residential Alteration,False,58,70,75,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Residential Demolition Permit,False,50,67,98,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Residential Emergency Demo/Repair/Reconstruction,False,28,28,32,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Residential Move Permit,False,,,76,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Residential New Construction,False,44,68,91,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Residential Solar Water Heater Permit,False,38,46,52,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Residential Swimming Pool/Hot Tub/Jacuzzi,False,55,72,92,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Non-Res Emergency Demo/Repair/Reconstruction,False,10,10,42,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,NonResidential (Legacy),False,2,2,33,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Non-Residential Addition,False,,,184,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Non-Residential Alteration,False,54,75,103,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Non-Residential Demolition Permit,False,48,80,122,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Non-Residential Move Permit,False,,,0,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Non-Residential New Construction,False,57,72,105,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,,,63,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Non-Residential Electrical Only Permit,False,32,41,61,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Residential Electrical Only Permit,False,29,37,44,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Non-Residential Plumbing Only Permit,False,35,36,39,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Residential Plumbing Only Permit,False,32,47,48,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Residential PV Permit,False,37,47,67,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,avg_days,,Non-Residential PV Permit,False,40,52,76,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,Residential,,True,572,1027,1658,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,Residential,Residential (Legacy),False,4,5,10,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,Residential,Residential Addition,False,36,59,94,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,Residential,Residential Alteration,False,34,79,101,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,Residential,Residential Demolition Permit,False,14,27,46,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,Residential,Residential Emergency Demo/Repair/Reconstruction,False,1,1,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,Residential,Residential New Construction,False,411,718,1185,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,Residential,Residential Solar Water Heater Permit,False,35,68,128,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,Residential,Residential Swimming Pool/Hot Tub/Jacuzzi,False,37,70,92,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,NonResidential/Commercial,,True,148,226,435,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,NonResidential/Commercial,NonRes (Legacy),False,1,1,10,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,NonResidential/Commercial,Non-Res Emergency Demo/Repair/Reconstruction,False,2,2,12,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,NonResidential/Commercial,Non-Residential Addition,False,2,4,5,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,NonResidential/Commercial,Non-Residential Alteration,False,95,147,289,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,NonResidential/Commercial,Non-Residential Demolition Permit,False,4,5,11,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,NonResidential/Commercial,Non-Residential New Construction,False,44,66,107,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,NonResidential/Commercial,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,0,1,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,Electric Only,,True,186,365,664,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,Electric Only,Non-Residential Electrical Only Permit,False,39,85,156,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,Electric Only,Residential Electrical Only Permit,False,147,280,508,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,Plumbing Only,,True,61,86,119,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,Plumbing Only,Non-Residential Plumbing Only Permit,False,55,72,79,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,Plumbing Only,Residential Plumbing Only Permit,False,6,14,40,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,PV - Residential,,True,333,1023,1546,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,PV - Residential,Residential PV Permit,False,333,1023,1546,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,PV - NonResidential/Commercial,,True,19,47,55,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,PV - NonResidential/Commercial,Non-Residential PV Permit,False,19,47,55,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-03,count,TOTAL,,True,1319,2774,4477,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148044&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Residential (Legacy),False,14,28,50,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Residential Addition,False,44,67,102,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Residential Alteration,False,48,60,77,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Residential Demolition Permit,False,41,61,88,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Residential Emergency Demo/Repair/Reconstruction,False,28,28,28,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Residential Move Permit,False,,,76,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Residential New Construction,False,37,51,82,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Residential Solar Water Heater Permit,False,33,39,48,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Residential Swimming Pool/Hot Tub/Jacuzzi,False,50,66,84,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Non-Res Emergency Demo/Repair/Reconstruction,False,,10,41,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,NonResidential (Legacy),False,,2,35,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Non-Residential Addition,False,,,171,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Non-Residential Alteration,False,44,58,92,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Non-Residential Demolition Permit,False,,81,116,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Non-Residential Move Permit,False,,,0,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Non-Residential New Construction,False,67,68,99,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,,,63,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Non-Residential Electrical Only Permit,False,25,37,56,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Residential Electrical Only Permit,False,26,33,41,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Non-Residential Plumbing Only Permit,False,29,35,38,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Residential Plumbing Only Permit,False,31,39,46,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Residential PV Permit,False,32,39,63,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,avg_days,,Non-Residential PV Permit,False,35,45,71,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,Residential,,True,515,1125,1731,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,Residential,Residential (Legacy),False,2,5,10,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,Residential,Residential Addition,False,33,66,98,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,Residential,Residential Alteration,False,24,67,103,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,Residential,Residential Demolition Permit,False,10,29,45,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,Residential,Residential Emergency Demo/Repair/Reconstruction,False,2,2,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,Residential,Residential New Construction,False,377,799,1230,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,Residential,Residential Solar Water Heater Permit,False,42,85,147,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,Residential,Residential Swimming Pool/Hot Tub/Jacuzzi,False,25,72,96,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,NonResidential/Commercial,,True,123,248,420,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,NonResidential/Commercial,NonRes (Legacy),False,0,1,10,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,NonResidential/Commercial,Non-Res Emergency Demo/Repair/Reconstruction,False,1,2,6,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,NonResidential/Commercial,Non-Residential Addition,False,2,6,7,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,NonResidential/Commercial,Non-Residential Alteration,False,74,159,295,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,NonResidential/Commercial,Non-Residential Demolition Permit,False,3,7,12,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,NonResidential/Commercial,Non-Residential New Construction,False,43,72,89,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,NonResidential/Commercial,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,0,1,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,Electric Only,,True,174,370,650,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,Electric Only,Non-Residential Electrical Only Permit,False,36,84,152,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,Electric Only,Residential Electrical Only Permit,False,138,286,498,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,Plumbing Only,,True,60,75,121,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,Plumbing Only,Non-Residential Plumbing Only Permit,False,54,65,81,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,Plumbing Only,Residential Plumbing Only Permit,False,6,10,40,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,PV - Residential,,True,365,994,1532,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,PV - Residential,Residential PV Permit,False,365,994,1532,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,PV - NonResidential/Commercial,,True,14,47,56,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,PV - NonResidential/Commercial,Non-Residential PV Permit,False,14,47,56,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-04,count,TOTAL,,True,1251,2859,4510,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148401&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Residential (Legacy),False,15,21,41,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Residential Addition,False,42,51,95,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Residential Alteration,False,44,57,72,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Residential Demolition Permit,False,42,53,78,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Residential Emergency Demo/Repair/Reconstruction,False,,28,28,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Residential Move Permit,False,,,76,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Residential New Construction,False,29,41,75,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Residential Solar Water Heater Permit,False,31,36,44,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Residential Swimming Pool/Hot Tub/Jacuzzi,False,41,53,77,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Non-Res Emergency Demo/Repair/Reconstruction,False,10,10,41,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,NonResidential (Legacy),False,,2,20,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Non-Residential Addition,False,48,48,85,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Non-Residential Alteration,False,31,44,79,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Non-Residential Demolition Permit,False,,69,111,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Non-Residential Move Permit,False,,,0,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Non-Residential New Construction,False,65,67,92,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,,,63,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Non-Residential Electrical Only Permit,False,21,33,53,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Residential Electrical Only Permit,False,25,30,38,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Non-Residential Plumbing Only Permit,False,40,35,39,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Residential Plumbing Only Permit,False,29,32,41,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Residential PV Permit,False,28,34,58,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,avg_days,,Non-Residential PV Permit,False,27,38,64,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,Residential,,True,531,1107,1772,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,Residential,Residential (Legacy),False,2,6,10,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,Residential,Residential Addition,False,38,66,104,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,Residential,Residential Alteration,False,29,67,121,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,Residential,Residential Demolition Permit,False,10,28,45,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,Residential,Residential Emergency Demo/Repair/Reconstruction,False,2,2,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,Residential,Residential New Construction,False,383,791,1244,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,Residential,Residential Solar Water Heater Permit,False,45,83,146,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,Residential,Residential Swimming Pool/Hot Tub/Jacuzzi,False,22,64,100,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,NonResidential/Commercial,,True,142,270,451,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,NonResidential/Commercial,NonRes (Legacy),False,0,1,10,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,NonResidential/Commercial,Non-Res Emergency Demo/Repair/Reconstruction,False,2,3,7,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,NonResidential/Commercial,Non-Residential Addition,False,3,6,8,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,NonResidential/Commercial,Non-Residential Alteration,False,85,179,312,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,NonResidential/Commercial,Non-Residential Demolition Permit,False,3,7,12,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,NonResidential/Commercial,Non-Residential New Construction,False,49,74,101,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,NonResidential/Commercial,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,0,0,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,Electric Only,,True,183,329,661,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,Electric Only,Non-Residential Electrical Only Permit,False,34,64,147,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,Electric Only,Residential Electrical Only Permit,False,149,265,514,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,Plumbing Only,,True,59,73,114,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,Plumbing Only,Non-Residential Plumbing Only Permit,False,53,62,76,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,Plumbing Only,Residential Plumbing Only Permit,False,6,11,38,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,PV - Residential,,True,409,848,1499,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,PV - Residential,Residential PV Permit,False,409,848,1499,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,PV - NonResidential/Commercial,,True,18,37,61,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,PV - NonResidential/Commercial,Non-Residential PV Permit,False,18,37,61,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-05,count,TOTAL,,True,1342,2664,4558,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=148929&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Residential (Legacy),False,13,13,41,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Residential Addition,False,39,45,88,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Residential Alteration,False,38,52,70,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Residential Demolition Permit,False,33,43,69,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Residential Emergency Demo/Repair/Reconstruction,False,,28,28,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Residential Move Permit,False,,,76,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Residential New Construction,False,26,34,66,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Residential Solar Water Heater Permit,False,30,33,42,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Residential Swimming Pool/Hot Tub/Jacuzzi,False,40,48,70,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Non-Res Emergency Demo/Repair/Reconstruction,False,,10,26,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,NonResidential (Legacy),False,65,66,83,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Non-Residential Addition,False,39,43,73,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Non-Residential Alteration,False,34,42,72,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Non-Residential Demolition Permit,False,40,51,80,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Non-Residential Move Permit,False,,,0,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Non-Residential New Construction,False,42,77,98,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,,,63,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Non-Residential Electrical Only Permit,False,20,27,50,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Residential Electrical Only Permit,False,24,28,36,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Non-Residential Plumbing Only Permit,False,28,35,39,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Residential Plumbing Only Permit,False,,32,46,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Residential PV Permit,False,26,31,54,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,avg_days,,Non-Residential PV Permit,False,27,33,59,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,Residential,,True,490,1063,1809,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,Residential,Residential (Legacy),False,1,5,10,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,Residential,Residential Addition,False,34,70,115,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,Residential,Residential Alteration,False,23,57,119,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,Residential,Residential Demolition Permit,False,9,23,41,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,Residential,Residential Emergency Demo/Repair/Reconstruction,False,1,2,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,Residential,Residential New Construction,False,351,763,1254,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,Residential,Residential Solar Water Heater Permit,False,54,89,164,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,Residential,Residential Swimming Pool/Hot Tub/Jacuzzi,False,17,54,104,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,NonResidential/Commercial,,True,139,287,483,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,NonResidential/Commercial,NonRes (Legacy),False,1,2,11,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,NonResidential/Commercial,Non-Res Emergency Demo/Repair/Reconstruction,False,1,3,7,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,NonResidential/Commercial,Non-Residential Addition,False,3,5,7,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,NonResidential/Commercial,Non-Residential Alteration,False,82,177,316,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,NonResidential/Commercial,Non-Residential Demolition Permit,False,13,17,22,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,NonResidential/Commercial,Non-Residential New Construction,False,39,83,119,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,NonResidential/Commercial,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,0,0,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,Electric Only,,True,128,314,679,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,Electric Only,Non-Residential Electrical Only Permit,False,23,62,147,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,Electric Only,Residential Electrical Only Permit,False,105,252,532,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,Plumbing Only,,True,9,70,113,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,Plumbing Only,Non-Residential Plumbing Only Permit,False,3,58,77,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,Plumbing Only,Residential Plumbing Only Permit,False,6,12,36,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,PV - Residential,,True,424,757,1648,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,PV - Residential,Residential PV Permit,False,424,757,1648,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,PV - NonResidential/Commercial,,True,14,32,64,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,PV - NonResidential/Commercial,Non-Residential PV Permit,False,14,32,64,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-06,count,TOTAL,,True,1204,2523,4796,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150591&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Residential (Legacy),False,12,13,52,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Residential Addition,False,34,39,77,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Residential Alteration,False,36,42,67,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Residential Demolition Permit,False,43,44,70,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Residential Emergency Demo/Repair/Reconstruction,False,,28,28,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Residential Move Permit,False,,,76,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Residential New Construction,False,24,31,61,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Residential Solar Water Heater Permit,False,24,30,40,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Residential Swimming Pool/Hot Tub/Jacuzzi,False,37,42,69,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Non-Res Emergency Demo/Repair/Reconstruction,False,,11,22,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,NonResidential (Legacy),False,,65,83,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Non-Residential Addition,False,27,42,65,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Non-Residential Alteration,False,33,39,69,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Non-Residential Demolition Permit,False,35,38,71,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Non-Residential Move Permit,False,,,0,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Non-Residential New Construction,False,33,75,85,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,,,63,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Non-Residential Electrical Only Permit,False,17,22,47,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Residential Electrical Only Permit,False,18,24,34,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Non-Residential Plumbing Only Permit,False,17,28,37,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Residential Plumbing Only Permit,False,27,30,41,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Residential PV Permit,False,23,27,49,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,avg_days,,Non-Residential PV Permit,False,28,31,55,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,Residential,,True,453,968,1848,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,Residential,Residential (Legacy),False,1,3,7,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,Residential,Residential Addition,False,31,64,113,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,Residential,Residential Alteration,False,33,57,126,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,Residential,Residential Demolition Permit,False,9,19,44,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,Residential,Residential Emergency Demo/Repair/Reconstruction,False,0,2,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,Residential,Residential New Construction,False,328,705,1302,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,Residential,Residential Solar Water Heater Permit,False,36,78,153,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,Residential,Residential Swimming Pool/Hot Tub/Jacuzzi,False,15,40,101,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,NonResidential/Commercial,,True,179,302,535,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,NonResidential/Commercial,NonRes (Legacy),False,1,1,8,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,NonResidential/Commercial,Non-Res Emergency Demo/Repair/Reconstruction,False,1,2,6,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,NonResidential/Commercial,Non-Residential Addition,False,4,6,10,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,NonResidential/Commercial,Non-Residential Alteration,False,93,167,337,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,NonResidential/Commercial,Non-Residential Demolition Permit,False,13,16,23,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,NonResidential/Commercial,Non-Residential New Construction,False,67,110,150,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,NonResidential/Commercial,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,0,0,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,Electric Only,,True,148,322,650,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,Electric Only,Non-Residential Electrical Only Permit,False,28,64,140,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,Electric Only,Residential Electrical Only Permit,False,120,258,510,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,Plumbing Only,,True,10,70,105,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,Plumbing Only,Non-Residential Plumbing Only Permit,False,5,59,80,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,Plumbing Only,Residential Plumbing Only Permit,False,5,11,25,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,PV - Residential,,True,387,751,1667,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,PV - Residential,Residential PV Permit,False,387,751,1667,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,PV - NonResidential/Commercial,,True,15,29,66,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,PV - NonResidential/Commercial,Non-Residential PV Permit,False,15,29,66,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-07,count,TOTAL,,True,1192,2442,4871,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=150592&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Residential (Legacy),False,10,12,30,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Residential Addition,False,29,36,64,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Residential Alteration,False,38,40,60,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Residential Demolition Permit,False,39,41,55,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Residential Emergency Demo/Repair/Reconstruction,False,,,28,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Residential Move Permit,False,,,76,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Residential New Construction,False,25,29,54,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Residential Solar Water Heater Permit,False,21,27,37,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Residential Swimming Pool/Hot Tub/Jacuzzi,False,31,38,63,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Non-Res Emergency Demo/Repair/Reconstruction,False,,11,18,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,NonResidential (Legacy),False,,65,67,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Non-Residential Addition,False,53,52,51,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Non-Residential Alteration,False,32,35,54,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Non-Residential Demolition Permit,False,27,40,64,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Non-Residential Move Permit,False,,,0,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Non-Residential New Construction,False,37,59,81,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,,,63,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Non-Residential Electrical Only Permit,False,17,19,42,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Residential Electrical Only Permit,False,15,21,32,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Non-Residential Plumbing Only Permit,False,17,23,37,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Residential Plumbing Only Permit,False,28,28,38,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Residential PV Permit,False,20,24,40,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,avg_days,,Non-Residential PV Permit,False,27,30,45,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,Residential,,True,443,974,1901,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,Residential,Residential (Legacy),False,0,2,6,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,Residential,Residential Addition,False,37,75,121,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,Residential,Residential Alteration,False,26,55,134,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,Residential,Residential Demolition Permit,False,12,22,48,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,Residential,Residential Emergency Demo/Repair/Reconstruction,False,0,2,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,Residential,Residential New Construction,False,316,699,1345,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,Residential,Residential Solar Water Heater Permit,False,36,81,144,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,Residential,Residential Swimming Pool/Hot Tub/Jacuzzi,False,16,38,101,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,NonResidential/Commercial,,True,172,314,534,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,NonResidential/Commercial,NonRes (Legacy),False,1,1,8,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,NonResidential/Commercial,Non-Res Emergency Demo/Repair/Reconstruction,False,1,3,6,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,NonResidential/Commercial,Non-Residential Addition,False,3,6,10,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,NonResidential/Commercial,Non-Residential Alteration,False,88,173,328,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,NonResidential/Commercial,Non-Residential Demolition Permit,False,13,16,21,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,NonResidential/Commercial,Non-Residential New Construction,False,66,115,160,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,NonResidential/Commercial,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,0,0,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,Electric Only,,True,163,346,621,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,Electric Only,Non-Residential Electrical Only Permit,False,37,71,139,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,Electric Only,Residential Electrical Only Permit,False,126,275,482,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,Plumbing Only,,True,15,74,109,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,Plumbing Only,Non-Residential Plumbing Only Permit,False,7,60,82,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,Plumbing Only,Residential Plumbing Only Permit,False,8,14,27,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,PV - Residential,,True,476,885,1772,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,PV - Residential,Residential PV Permit,False,476,885,1772,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,PV - NonResidential/Commercial,,True,12,30,70,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,PV - NonResidential/Commercial,Non-Residential PV Permit,False,12,30,70,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-08,count,TOTAL,,True,1281,2623,5007,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151103&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Residential (Legacy),False,10,11,25,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Residential Addition,False,25,35,57,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Residential Alteration,False,32,34,56,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Residential Demolition Permit,False,25,38,48,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Residential Emergency Demo/Repair/Reconstruction,False,,,28,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Residential Move Permit,False,,,76,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Residential New Construction,False,23,26,46,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Residential Solar Water Heater Permit,False,20,25,34,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Residential Swimming Pool/Hot Tub/Jacuzzi,False,32,37,59,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Non-Res Emergency Demo/Repair/Reconstruction,False,,,11,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,NonResidential (Legacy),False,,65,66,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Non-Residential Addition,False,52,49,52,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Non-Residential Alteration,False,34,34,51,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Non-Residential Demolition Permit,False,25,34,59,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Non-Residential Move Permit,False,,,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Non-Residential New Construction,False,39,43,76,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,,,63,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Non-Residential Electrical Only Permit,False,13,17,33,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Residential Electrical Only Permit,False,11,17,28,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Non-Residential Plumbing Only Permit,False,17,23,35,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Residential Plumbing Only Permit,False,27,28,37,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Residential PV Permit,False,15,20,31,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,avg_days,,Non-Residential PV Permit,False,22,25,36,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,Residential,,True,440,929,1957,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,Residential,Residential (Legacy),False,1,2,7,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,Residential,Residential Addition,False,27,61,120,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,Residential,Residential Alteration,False,33,56,135,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,Residential,Residential Demolition Permit,False,13,22,49,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,Residential,Residential Emergency Demo/Repair/Reconstruction,False,0,1,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,Residential,Residential New Construction,False,328,678,1397,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,Residential,Residential Solar Water Heater Permit,False,21,75,143,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,Residential,Residential Swimming Pool/Hot Tub/Jacuzzi,False,17,34,104,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,NonResidential/Commercial,,True,152,291,517,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,NonResidential/Commercial,NonRes (Legacy),False,0,1,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,NonResidential/Commercial,Non-Res Emergency Demo/Repair/Reconstruction,False,2,3,5,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,NonResidential/Commercial,Non-Residential Addition,False,4,7,11,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,NonResidential/Commercial,Non-Residential Alteration,False,93,175,322,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,NonResidential/Commercial,Non-Residential Demolition Permit,False,2,15,20,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,NonResidential/Commercial,Non-Residential Move Permit,False,2,2,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,NonResidential/Commercial,Non-Residential New Construction,False,49,88,154,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,NonResidential/Commercial,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,0,0,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,Electric Only,,True,165,293,658,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,Electric Only,Non-Residential Electrical Only Permit,False,34,57,142,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,Electric Only,Residential Electrical Only Permit,False,131,236,516,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,Plumbing Only,,True,12,21,107,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,Plumbing Only,Non-Residential Plumbing Only Permit,False,7,10,82,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,Plumbing Only,Residential Plumbing Only Permit,False,5,11,25,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,PV - Residential,,True,490,914,1937,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,PV - Residential,Residential PV Permit,False,490,914,1937,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,PV - NonResidential/Commercial,,True,14,28,74,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,PV - NonResidential/Commercial,Non-Residential PV Permit,False,14,28,74,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-09,count,TOTAL,,True,1273,2476,5250,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151104&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Residential (Legacy),False,11,11,21,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Residential Addition,False,26,35,47,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Residential Alteration,False,27,35,50,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Residential Demolition Permit,False,24,39,45,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Residential Emergency Demo/Repair/Reconstruction,False,8,8,18,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Residential Move Permit,False,,,76,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Residential New Construction,False,21,25,38,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Residential Solar Water Heater Permit,False,15,20,30,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Residential Swimming Pool/Hot Tub/Jacuzzi,False,30,37,55,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Non-Res Emergency Demo/Repair/Reconstruction,False,,,11,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,NonResidential (Legacy),False,,,66,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Non-Residential Addition,False,43,47,48,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Non-Residential Alteration,False,32,33,45,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Non-Residential Demolition Permit,False,25,31,59,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Non-Residential Move Permit,False,,,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Non-Residential New Construction,False,32,37,70,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,,,0,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Non-Residential Electrical Only Permit,False,16,17,29,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Residential Electrical Only Permit,False,11,15,25,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Non-Residential Plumbing Only Permit,False,,17,34,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Residential Plumbing Only Permit,False,32,32,35,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Residential PV Permit,False,13,18,26,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,avg_days,,Non-Residential PV Permit,False,22,25,32,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,Residential,,True,439,891,2016,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,Residential,Residential (Legacy),False,1,2,7,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,Residential,Residential Addition,False,32,63,129,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,Residential,Residential Alteration,False,28,61,128,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,Residential,Residential Demolition Permit,False,19,28,57,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,Residential,Residential Emergency Demo/Repair/Reconstruction,False,1,1,3,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,Residential,Residential New Construction,False,310,637,1436,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,Residential,Residential Solar Water Heater Permit,False,28,64,149,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,Residential,Residential Swimming Pool/Hot Tub/Jacuzzi,False,20,35,107,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,NonResidential/Commercial,,True,113,292,540,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,NonResidential/Commercial,NonRes (Legacy),False,0,1,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,NonResidential/Commercial,Non-Res Emergency Demo/Repair/Reconstruction,False,2,3,5,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,NonResidential/Commercial,Non-Residential Addition,False,4,8,14,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,NonResidential/Commercial,Non-Residential Alteration,False,84,177,336,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,NonResidential/Commercial,Non-Residential Demolition Permit,False,1,14,21,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,NonResidential/Commercial,Non-Residential Move Permit,False,2,2,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,NonResidential/Commercial,Non-Residential New Construction,False,20,87,159,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,NonResidential/Commercial,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,0,0,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,Electric Only,,True,145,293,663,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,Electric Only,Non-Residential Electrical Only Permit,False,24,52,136,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,Electric Only,Residential Electrical Only Permit,False,121,241,527,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,Plumbing Only,,True,10,20,95,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,Plumbing Only,Non-Residential Plumbing Only Permit,False,3,8,73,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,Plumbing Only,Residential Plumbing Only Permit,False,7,12,22,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,PV - Residential,,True,605,992,1985,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,PV - Residential,Residential PV Permit,False,605,992,1985,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,PV - NonResidential/Commercial,,True,15,30,77,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,PV - NonResidential/Commercial,Non-Residential PV Permit,False,15,30,77,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-10,count,TOTAL,,True,1327,2518,5376,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=151920&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Residential (Legacy),False,11,11,19,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Residential Addition,False,25,30,40,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Residential Alteration,False,33,36,49,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Residential Demolition Permit,False,22,39,43,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Residential Emergency Demo/Repair/Reconstruction,False,8,8,18,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Residential Move Permit,False,,,44,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Residential New Construction,False,23,26,34,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Residential Solar Water Heater Permit,False,16,18,28,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Residential Swimming Pool/Hot Tub/Jacuzzi,False,27,33,45,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Non-Res Emergency Demo/Repair/Reconstruction,False,,,11,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,NonResidential (Legacy),False,,,66,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Non-Residential Addition,False,23,40,44,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Non-Residential Alteration,False,32,34,42,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Non-Residential Demolition Permit,False,19,24,50,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Non-Residential Move Permit,False,,,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Non-Residential New Construction,False,17,25,61,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,,,0,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Non-Residential Electrical Only Permit,False,14,17,26,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Residential Electrical Only Permit,False,13,14,22,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Non-Residential Plumbing Only Permit,False,,18,34,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Residential Plumbing Only Permit,False,23,29,30,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Residential PV Permit,False,13,16,23,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,avg_days,,Non-Residential PV Permit,False,21,24,30,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,Residential,,True,391,833,1940,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,Residential,Residential (Legacy),False,1,1,7,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,Residential,Residential Addition,False,25,62,128,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,Residential,Residential Alteration,False,21,47,114,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,Residential,Residential Demolition Permit,False,15,27,55,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,Residential,Residential Emergency Demo/Repair/Reconstruction,False,1,1,3,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,Residential,Residential New Construction,False,281,597,1388,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,Residential,Residential Solar Water Heater Permit,False,31,67,150,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,Residential,Residential Swimming Pool/Hot Tub/Jacuzzi,False,16,31,95,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,NonResidential/Commercial,,True,168,340,610,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,NonResidential/Commercial,NonRes (Legacy),False,0,1,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,NonResidential/Commercial,Non-Res Emergency Demo/Repair/Reconstruction,False,1,2,5,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,NonResidential/Commercial,Non-Residential Addition,False,7,10,16,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,NonResidential/Commercial,Non-Residential Alteration,False,141,229,408,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,NonResidential/Commercial,Non-Residential Demolition Permit,False,2,15,22,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,NonResidential/Commercial,Non-Residential Move Permit,False,2,2,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,NonResidential/Commercial,Non-Residential New Construction,False,15,81,155,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,Electric Only,,True,121,284,613,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,Electric Only,Non-Residential Electrical Only Permit,False,20,57,121,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,Electric Only,Residential Electrical Only Permit,False,101,227,492,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,Plumbing Only,,True,7,22,95,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,Plumbing Only,Non-Residential Plumbing Only Permit,False,3,10,72,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,Plumbing Only,Residential Plumbing Only Permit,False,4,12,23,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,PV - Residential,,True,532,1008,1856,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,PV - Residential,Residential PV Permit,False,532,1008,1856,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,PV - NonResidential/Commercial,,True,13,25,62,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,PV - NonResidential/Commercial,Non-Residential PV Permit,False,13,25,62,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-11,count,TOTAL,,True,1232,2512,5176,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152514&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Residential (Legacy),False,,11,12,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Residential Addition,False,28,31,39,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Residential Alteration,False,45,35,44,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Residential Demolition Permit,False,,40,44,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Residential Emergency Demo/Repair/Reconstruction,False,8,8,18,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Residential Move Permit,False,,,37,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Residential New Construction,False,28,26,32,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Residential Solar Water Heater Permit,False,17,18,25,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Residential Swimming Pool/Hot Tub/Jacuzzi,False,25,32,42,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Non-Res Emergency Demo/Repair/Reconstruction,False,,,11,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,NonResidential (Legacy),False,,,66,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Non-Residential Addition,False,18,33,41,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Non-Residential Alteration,False,24,26,35,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Non-Residential Demolition Permit,False,25,26,41,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Non-Residential Move Permit,False,,,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Non-Residential New Construction,False,19,25,55,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,,,0,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Non-Residential Electrical Only Permit,False,15,15,22,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Residential Electrical Only Permit,False,15,14,21,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Non-Residential Plumbing Only Permit,False,,17,34,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Residential Plumbing Only Permit,False,20,26,29,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Residential PV Permit,False,14,15,22,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,avg_days,,Non-Residential PV Permit,False,28,24,29,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,Residential,,True,377,817,1879,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,Residential,Residential (Legacy),False,0,1,6,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,Residential,Residential Addition,False,26,53,123,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,Residential,Residential Alteration,False,17,50,107,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,Residential,Residential Demolition Permit,False,18,31,54,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,Residential,Residential Emergency Demo/Repair/Reconstruction,False,1,1,3,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,Residential,Residential New Construction,False,252,580,1342,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,Residential,Residential Solar Water Heater Permit,False,56,77,166,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,Residential,Residential Swimming Pool/Hot Tub/Jacuzzi,False,7,24,78,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,NonResidential/Commercial,,True,152,304,591,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,NonResidential/Commercial,NonRes (Legacy),False,0,0,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,NonResidential/Commercial,Non-Res Emergency Demo/Repair/Reconstruction,False,0,2,5,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,NonResidential/Commercial,Non-Residential Addition,False,7,11,16,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,NonResidential/Commercial,Non-Residential Alteration,False,123,216,393,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,NonResidential/Commercial,Non-Residential Demolition Permit,False,3,5,22,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,NonResidential/Commercial,Non-Residential Move Permit,False,0,2,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,NonResidential/Commercial,Non-Residential New Construction,False,19,68,151,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,Electric Only,,True,117,282,596,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,Electric Only,Non-Residential Electrical Only Permit,False,26,60,122,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,Electric Only,Residential Electrical Only Permit,False,91,222,474,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,Plumbing Only,,True,10,22,92,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,Plumbing Only,Non-Residential Plumbing Only Permit,False,3,10,68,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,Plumbing Only,Residential Plumbing Only Permit,False,7,12,24,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,PV - Residential,,True,524,1014,1771,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,PV - Residential,Residential PV Permit,False,524,1014,1771,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,PV - NonResidential/Commercial,,True,9,23,55,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,PV - NonResidential/Commercial,Non-Residential PV Permit,False,9,23,55,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2025-12,count,TOTAL,,True,1189,2462,4984,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=152736&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,Residential (Legacy),False,3,8,11,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,Residential Addition,False,28,27,36,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,Residential Alteration,False,29,32,38,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,Residential Demolition Permit,False,46,46,44,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,Residential Emergency Demo/Repair/Reconstruction,False,,8,18,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,Residential New Construction,False,30,27,32,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,Residential Solar Water Heater Permit,False,17,16,23,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,Residential Swimming Pool/Hot Tub/Jacuzzi,False,35,33,38,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,Non-Res Emergency Demo/Repair/Reconstruction,False,,,11,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,NonResidential (Legacy),False,,,65,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,Non-Residential Addition,False,,26,41,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,Non-Residential Alteration,False,20,24,33,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,Non-Residential Demolition Permit,False,,25,34,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,Non-Residential Move Permit,False,,,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,Non-Residential New Construction,False,20,27,52,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,,,0,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,Non-Residential Electrical Only Permit,False,8,13,18,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,Residential Electrical Only Permit,False,14,14,19,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,Non-Residential Plumbing Only Permit,False,,,28,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,Residential Plumbing Only Permit,False,17,24,29,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,Residential PV Permit,False,14,13,20,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,avg_days,,Non-Residential PV Permit,False,28,24,27,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,Residential,,True,377,815,1782,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,Residential,Residential (Legacy),False,0,1,4,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,Residential,Residential Addition,False,21,53,117,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,Residential,Residential Alteration,False,11,39,96,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,Residential,Residential Demolition Permit,False,14,33,52,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,Residential,Residential Emergency Demo/Repair/Reconstruction,False,0,1,3,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,Residential,Residential New Construction,False,270,579,1283,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,Residential,Residential Solar Water Heater Permit,False,55,83,161,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,Residential,Residential Swimming Pool/Hot Tub/Jacuzzi,False,6,26,66,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,NonResidential/Commercial,,True,140,253,555,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,NonResidential/Commercial,NonRes (Legacy),False,0,0,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,NonResidential/Commercial,Non-Res Emergency Demo/Repair/Reconstruction,False,0,2,4,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,NonResidential/Commercial,Non-Residential Addition,False,5,9,15,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,NonResidential/Commercial,Non-Residential Alteration,False,115,199,366,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,NonResidential/Commercial,Non-Residential Demolition Permit,False,4,5,21,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,NonResidential/Commercial,Non-Residential Move Permit,False,0,2,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,NonResidential/Commercial,Non-Residential New Construction,False,16,36,146,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,Electric Only,,True,143,288,610,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,Electric Only,Non-Residential Electrical Only Permit,False,31,55,119,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,Electric Only,Residential Electrical Only Permit,False,112,233,491,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,Plumbing Only,,True,14,24,94,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,Plumbing Only,Non-Residential Plumbing Only Permit,False,4,7,66,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,Plumbing Only,Residential Plumbing Only Permit,False,10,17,28,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,PV - Residential,,True,426,1031,1782,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,PV - Residential,Residential PV Permit,False,426,1031,1782,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,PV - NonResidential/Commercial,,True,8,23,52,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,PV - NonResidential/Commercial,Non-Residential PV Permit,False,8,23,52,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-01,count,TOTAL,,True,1108,2434,4875,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153396&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,Residential (Legacy),False,3,6,11,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,Residential Addition,False,23,26,36,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,Residential Alteration,False,27,31,36,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,Residential Demolition Permit,False,45,32,44,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,Residential Emergency Demo/Repair/Reconstruction,False,,11,11,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,Residential New Construction,False,25,28,30,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,Residential Solar Water Heater Permit,False,15,17,22,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,Residential Swimming Pool/Hot Tub/Jacuzzi,False,37,31,37,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,Non-Res Emergency Demo/Repair/Reconstruction,False,,,11,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,NonResidential (Legacy),False,,,65,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,Non-Residential Addition,False,,21,42,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,Non-Residential Alteration,False,19,22,28,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,Non-Residential Demolition Permit,False,,20,34,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,Non-Residential Move Permit,False,,,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,Non-Residential New Construction,False,28,25,45,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,,,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,Non-Residential Electrical Only Permit,False,7,10,16,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,Residential Electrical Only Permit,False,11,13,17,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,Non-Residential Plumbing Only Permit,False,,,23,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,Residential Plumbing Only Permit,False,16,21,27,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,Residential PV Permit,False,10,12,18,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,avg_days,,Non-Residential PV Permit,False,21,21,25,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,Residential,,True,393,783,1756,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,Residential,Residential (Legacy),False,0,1,3,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,Residential,Residential Addition,False,19,44,119,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,Residential,Residential Alteration,False,10,31,86,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,Residential,Residential Demolition Permit,False,16,31,53,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,Residential,Residential Emergency Demo/Repair/Reconstruction,False,0,1,3,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,Residential,Residential New Construction,False,282,562,1261,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,Residential,Residential Solar Water Heater Permit,False,57,88,169,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,Residential,Residential Swimming Pool/Hot Tub/Jacuzzi,False,9,25,62,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,NonResidential/Commercial,,True,89,257,571,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,NonResidential/Commercial,NonRes (Legacy),False,0,0,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,NonResidential/Commercial,Non-Res Emergency Demo/Repair/Reconstruction,False,0,1,4,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,NonResidential/Commercial,Non-Residential Addition,False,3,10,16,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,NonResidential/Commercial,Non-Residential Alteration,False,56,197,370,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,NonResidential/Commercial,Non-Residential Demolition Permit,False,3,5,21,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,NonResidential/Commercial,Non-Residential Move Permit,False,0,2,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,NonResidential/Commercial,Non-Residential New Construction,False,26,41,156,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,NonResidential/Commercial,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,1,1,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,Electric Only,,True,151,272,618,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,Electric Only,Non-Residential Electrical Only Permit,False,27,47,118,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,Electric Only,Residential Electrical Only Permit,False,124,225,500,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,Plumbing Only,,True,10,17,91,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,Plumbing Only,Non-Residential Plumbing Only Permit,False,2,5,65,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,Plumbing Only,Residential Plumbing Only Permit,False,8,12,26,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,PV - Residential,,True,399,931,1816,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,PV - Residential,Residential PV Permit,False,399,931,1816,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,PV - NonResidential/Commercial,,True,9,22,52,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,PV - NonResidential/Commercial,Non-Residential PV Permit,False,9,22,52,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-02,count,TOTAL,,True,1051,2282,4904,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=153723&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,Residential (Legacy),False,4,4,10,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,Residential Addition,False,21,25,34,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,Residential Alteration,False,26,31,33,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,Residential Demolition Permit,False,22,37,43,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,Residential Emergency Demo/Repair/Reconstruction,False,,12,12,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,Residential New Construction,False,20,28,28,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,Residential Solar Water Heater Permit,False,13,16,20,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,Residential Swimming Pool/Hot Tub/Jacuzzi,False,19,27,35,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,Non-Res Emergency Demo/Repair/Reconstruction,False,,,16,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,NonResidential (Legacy),False,,,65,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,Non-Residential Addition,False,,23,39,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,Non-Residential Alteration,False,19,21,27,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,Non-Residential Demolition Permit,False,,25,33,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,Non-Residential Move Permit,False,,,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,Non-Residential New Construction,False,18,23,36,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,,,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,Non-Residential Electrical Only Permit,False,6,11,15,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,Residential Electrical Only Permit,False,7,11,15,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,Non-Residential Plumbing Only Permit,False,,,22,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,Residential Plumbing Only Permit,False,,19,24,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,Residential PV Permit,False,9,12,17,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,avg_days,,Non-Residential PV Permit,False,21,24,24,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,Residential,,True,418,794,1723,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,Residential,Residential (Legacy),False,0,0,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,Residential,Residential Addition,False,26,52,113,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,Residential,Residential Alteration,False,11,28,84,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,Residential,Residential Demolition Permit,False,14,32,54,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,Residential,Residential Emergency Demo/Repair/Reconstruction,False,1,2,3,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,Residential,Residential New Construction,False,308,559,1237,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,Residential,Residential Solar Water Heater Permit,False,41,97,172,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,Residential,Residential Swimming Pool/Hot Tub/Jacuzzi,False,17,24,58,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,NonResidential/Commercial,,True,118,270,561,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,NonResidential/Commercial,NonRes (Legacy),False,0,0,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,NonResidential/Commercial,Non-Res Emergency Demo/Repair/Reconstruction,False,0,0,3,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,NonResidential/Commercial,Non-Residential Addition,False,3,10,17,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,NonResidential/Commercial,Non-Residential Alteration,False,58,181,356,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,NonResidential/Commercial,Non-Residential Demolition Permit,False,2,5,20,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,NonResidential/Commercial,Non-Residential Move Permit,False,0,0,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,NonResidential/Commercial,Non-Residential New Construction,False,54,73,161,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,NonResidential/Commercial,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,1,1,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,Electric Only,,True,159,276,569,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,Electric Only,Non-Residential Electrical Only Permit,False,24,50,107,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,Electric Only,Residential Electrical Only Permit,False,135,226,462,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,Plumbing Only,,True,6,16,37,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,Plumbing Only,Non-Residential Plumbing Only Permit,False,1,4,14,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,Plumbing Only,Residential Plumbing Only Permit,False,5,12,23,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,PV - Residential,,True,338,862,1776,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,PV - Residential,Residential PV Permit,False,338,862,1776,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,PV - NonResidential/Commercial,,True,8,17,45,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,PV - NonResidential/Commercial,Non-Residential PV Permit,False,8,17,45,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-03,count,TOTAL,,True,1047,2235,4711,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=154269&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,Residential (Legacy),False,6,5,9,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,Residential Addition,False,19,24,32,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,Residential Alteration,False,31,32,35,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,Residential Demolition Permit,False,24,32,62,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,Residential Emergency Demo/Repair/Reconstruction,False,,,12,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,Residential New Construction,False,21,28,28,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,Residential Solar Water Heater Permit,False,12,15,17,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,Residential Swimming Pool/Hot Tub/Jacuzzi,False,18,28,33,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,Non-Res Emergency Demo/Repair/Reconstruction,False,,,16,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,NonResidential (Legacy),False,,,0,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,Non-Residential Addition,False,,,37,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,Non-Residential Alteration,False,18,20,25,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,Non-Residential Demolition Permit,False,,,29,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,Non-Residential Move Permit,False,,,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,Non-Residential New Construction,False,16,24,36,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,,,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,Non-Residential Electrical Only Permit,False,10,9,14,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,Residential Electrical Only Permit,False,7,10,13,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,Non-Residential Plumbing Only Permit,False,,12,17,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,Residential Plumbing Only Permit,False,48,41,42,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,Residential PV Permit,False,9,12,15,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,avg_days,,Non-Residential PV Permit,False,20,22,24,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,Residential,,True,387,763,1653,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,Residential,Residential (Legacy),False,0,0,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,Residential,Residential Addition,False,33,54,117,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,Residential,Residential Alteration,False,11,22,83,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,Residential,Residential Demolition Permit,False,21,35,63,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,Residential,Residential Emergency Demo/Repair/Reconstruction,False,1,1,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,Residential,Residential New Construction,False,261,530,1166,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,Residential,Residential Solar Water Heater Permit,False,46,101,165,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,Residential,Residential Swimming Pool/Hot Tub/Jacuzzi,False,14,20,55,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,NonResidential/Commercial,,True,116,256,548,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,NonResidential/Commercial,NonRes (Legacy),False,0,0,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,NonResidential/Commercial,Non-Res Emergency Demo/Repair/Reconstruction,False,0,0,3,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,NonResidential/Commercial,Non-Residential Addition,False,4,9,17,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,NonResidential/Commercial,Non-Residential Alteration,False,52,167,344,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,NonResidential/Commercial,Non-Residential Demolition Permit,False,1,5,19,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,NonResidential/Commercial,Non-Residential Move Permit,False,0,0,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,NonResidential/Commercial,Non-Residential New Construction,False,58,74,161,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,NonResidential/Commercial,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,1,1,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,Electric Only,,True,159,302,595,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,Electric Only,Non-Residential Electrical Only Permit,False,26,57,109,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,Electric Only,Residential Electrical Only Permit,False,133,245,486,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,Plumbing Only,,True,21,35,55,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,Plumbing Only,Non-Residential Plumbing Only Permit,False,0,4,12,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,Plumbing Only,Residential Plumbing Only Permit,False,21,31,43,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,PV - Residential,,True,303,729,1721,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,PV - Residential,Residential PV Permit,False,303,729,1721,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,PV - NonResidential/Commercial,,True,9,17,47,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,PV - NonResidential/Commercial,Non-Residential PV Permit,False,9,17,47,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-04,count,TOTAL,,True,995,2102,4619,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156035&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,Residential (Legacy),False,5,5,131,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,Residential Addition,False,27,25,31,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,Residential Alteration,False,34,33,35,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,Residential Demolition Permit,False,27,33,62,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,Residential Emergency Demo/Repair/Reconstruction,False,,,12,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,Residential New Construction,False,28,28,29,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,Residential Solar Water Heater Permit,False,10,13,16,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,Residential Swimming Pool/Hot Tub/Jacuzzi,False,18,27,30,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,Non-Res Emergency Demo/Repair/Reconstruction,False,,,23,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,NonResidential (Legacy),False,,,0,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,Non-Residential Addition,False,,,37,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,Non-Residential Alteration,False,29,20,25,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,Non-Residential Demolition Permit,False,,,25,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,Non-Residential Move Permit,False,,,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,Non-Residential New Construction,False,27,32,36,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,,,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,Non-Residential Electrical Only Permit,False,13,11,14,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,Residential Electrical Only Permit,False,7,9,12,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,Non-Residential Plumbing Only Permit,False,,12,17,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,Residential Plumbing Only Permit,False,63,58,55,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,Residential PV Permit,False,8,9,14,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,avg_days,,Non-Residential PV Permit,False,18,19,22,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,Residential,,True,360,752,1584,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,Residential,Residential (Legacy),False,1,1,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,Residential,Residential Addition,False,30,49,111,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,Residential,Residential Alteration,False,15,25,72,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,Residential,Residential Demolition Permit,False,25,41,68,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,Residential,Residential Emergency Demo/Repair/Reconstruction,False,1,1,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,Residential,Residential New Construction,False,236,517,1113,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,Residential,Residential Solar Water Heater Permit,False,39,96,163,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,Residential,Residential Swimming Pool/Hot Tub/Jacuzzi,False,13,22,53,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,NonResidential/Commercial,,True,171,260,600,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,NonResidential/Commercial,NonRes (Legacy),False,0,0,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,NonResidential/Commercial,Non-Res Emergency Demo/Repair/Reconstruction,False,0,0,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,NonResidential/Commercial,Non-Residential Addition,False,4,7,17,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,NonResidential/Commercial,Non-Residential Alteration,False,124,180,409,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,NonResidential/Commercial,Non-Residential Demolition Permit,False,1,4,19,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,NonResidential/Commercial,Non-Residential Move Permit,False,0,0,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,NonResidential/Commercial,Non-Residential New Construction,False,42,68,149,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,NonResidential/Commercial,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,0,1,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,Electric Only,,True,171,322,606,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,Electric Only,Non-Residential Electrical Only Permit,False,33,60,117,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,Electric Only,Residential Electrical Only Permit,False,138,262,489,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,Plumbing Only,,True,24,34,56,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,Plumbing Only,Non-Residential Plumbing Only Permit,False,0,2,12,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,Plumbing Only,Residential Plumbing Only Permit,False,24,32,44,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,PV - Residential,,True,282,681,1689,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,PV - Residential,Residential PV Permit,False,282,681,1689,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,PV - NonResidential/Commercial,,True,9,18,43,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,PV - NonResidential/Commercial,Non-Residential PV Permit,False,9,18,43,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-05,count,TOTAL,,True,1017,2067,4578,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156119&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,Residential (Legacy),False,5,5,131,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,Residential Addition,False,23,25,30,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,Residential Alteration,False,37,35,35,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,Residential Demolition Permit,False,26,30,55,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,Residential Emergency Demo/Repair/Reconstruction,False,,,13,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,Residential New Construction,False,24,26,28,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,Residential Solar Water Heater Permit,False,9,11,15,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,Residential Swimming Pool/Hot Tub/Jacuzzi,False,30,23,30,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,Non-Res Emergency Demo/Repair/Reconstruction,False,,,32,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,NonResidential (Legacy),False,,,0,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,Non-Residential Addition,False,,,34,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,Non-Residential Alteration,False,31,23,25,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,Non-Residential Demolition Permit,False,12,13,21,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,Non-Residential Move Permit,False,,,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,Non-Residential New Construction,False,25,22,35,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,,,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,Non-Residential Electrical Only Permit,False,9,10,12,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,Residential Electrical Only Permit,False,7,7,11,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,Non-Residential Plumbing Only Permit,False,,10,17,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,Residential Plumbing Only Permit,False,70,64,59,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,Residential PV Permit,False,8,8,13,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,avg_days,,Non-Residential PV Permit,False,15,19,21,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,Residential,,True,357,774,1590,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,Residential,Residential (Legacy),False,1,1,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,Residential,Residential Addition,False,30,56,109,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,Residential,Residential Alteration,False,14,25,75,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,Residential,Residential Demolition Permit,False,28,42,73,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,Residential,Residential Emergency Demo/Repair/Reconstruction,False,0,1,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,Residential,Residential New Construction,False,240,547,1126,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,Residential,Residential Solar Water Heater Permit,False,36,77,154,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,Residential,Residential Swimming Pool/Hot Tub/Jacuzzi,False,8,25,49,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,NonResidential/Commercial,,True,141,259,563,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,NonResidential/Commercial,Non-Res Emergency Demo/Repair/Reconstruction,False,0,0,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,NonResidential/Commercial,Non-Residential Addition,False,4,7,18,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,NonResidential/Commercial,Non-Residential Alteration,False,125,183,399,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,NonResidential/Commercial,Non-Residential Demolition Permit,False,2,4,9,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,NonResidential/Commercial,Non-Residential Move Permit,False,0,0,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,NonResidential/Commercial,Non-Residential New Construction,False,10,64,132,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,NonResidential/Commercial,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,0,1,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,Electric Only,,True,167,326,608,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,Electric Only,Non-Residential Electrical Only Permit,False,33,57,117,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,Electric Only,Residential Electrical Only Permit,False,134,269,491,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,Plumbing Only,,True,45,51,73,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,Plumbing Only,Non-Residential Plumbing Only Permit,False,0,1,11,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,Plumbing Only,Residential Plumbing Only Permit,False,45,50,62,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,PV - Residential,,True,255,593,1607,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,PV - Residential,Residential PV Permit,False,255,593,1607,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,PV - NonResidential/Commercial,,True,19,27,50,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,PV - NonResidential/Commercial,Non-Residential PV Permit,False,19,27,50,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-06,count,TOTAL,,True,984,2030,4491,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=156924&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,Residential (Legacy),False,4,5,131,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,Residential Addition,False,26,26,29,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,Residential Alteration,False,21,34,34,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,Residential Demolition Permit,False,31,30,52,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,Residential Emergency Demo/Repair/Reconstruction,False,31,24,18,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,Residential New Construction,False,17,25,27,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,Residential Solar Water Heater Permit,False,7,10,14,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,Residential Swimming Pool/Hot Tub/Jacuzzi,False,23,22,28,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,Non-Res Emergency Demo/Repair/Reconstruction,False,,,39,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,NonResidential (Legacy),False,,,0,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,Non-Residential Addition,False,,28,27,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,Non-Residential Alteration,False,33,25,25,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,Non-Residential Demolition Permit,False,45,41,31,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,Non-Residential Move Permit,False,,,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,Non-Residential New Construction,False,17,21,27,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,,,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,Non-Residential Electrical Only Permit,False,9,10,11,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,Residential Electrical Only Permit,False,5,6,10,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,Non-Residential Plumbing Only Permit,False,20,22,20,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,Residential Plumbing Only Permit,False,58,63,60,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,Residential PV Permit,False,7,8,11,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,avg_days,,Non-Residential PV Permit,False,14,17,19,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,Residential,,True,368,755,1568,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,Residential,Residential (Legacy),False,1,1,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,Residential,Residential Addition,False,26,59,112,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,Residential,Residential Alteration,False,21,32,71,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,Residential,Residential Demolition Permit,False,18,39,72,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,Residential,Residential Emergency Demo/Repair/Reconstruction,False,1,2,3,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,Residential,Residential New Construction,False,259,520,1098,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,Residential,Residential Solar Water Heater Permit,False,32,78,161,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,Residential,Residential Swimming Pool/Hot Tub/Jacuzzi,False,10,24,49,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,NonResidential/Commercial,,True,146,262,515,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,NonResidential/Commercial,Non-Res Emergency Demo/Repair/Reconstruction,False,0,0,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,NonResidential/Commercial,Non-Residential Addition,False,3,7,16,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,NonResidential/Commercial,Non-Residential Alteration,False,123,175,374,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,NonResidential/Commercial,Non-Residential Demolition Permit,False,2,3,8,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,NonResidential/Commercial,Non-Residential Move Permit,False,0,0,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,NonResidential/Commercial,Non-Residential New Construction,False,14,72,108,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,NonResidential/Commercial,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,4,5,5,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,Electric Only,,True,156,315,603,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,Electric Only,Non-Residential Electrical Only Permit,False,39,65,120,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,Electric Only,Residential Electrical Only Permit,False,117,250,483,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,Plumbing Only,,True,54,75,99,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,Plumbing Only,Non-Residential Plumbing Only Permit,False,6,6,13,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,Plumbing Only,Residential Plumbing Only Permit,False,48,69,86,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,PV - Residential,,True,295,598,1629,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,PV - Residential,Residential PV Permit,False,295,598,1629,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,PV - NonResidential/Commercial,,True,22,31,54,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,PV - NonResidential/Commercial,Non-Residential PV Permit,False,22,31,54,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-07,count,TOTAL,,True,1041,2036,4468,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157490&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,Residential (Legacy),False,4,5,129,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,Residential Addition,False,24,26,26,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,Residential Alteration,False,20,33,33,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,Residential Demolition Permit,False,22,29,31,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,Residential Emergency Demo/Repair/Reconstruction,False,28,20,17,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,Residential New Construction,False,15,24,27,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,Residential Solar Water Heater Permit,False,7,9,13,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,Residential Swimming Pool/Hot Tub/Jacuzzi,False,23,21,26,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,Non-Res Emergency Demo/Repair/Reconstruction,False,,,39,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,NonResidential (Legacy),False,,,0,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,Non-Residential Addition,False,,,23,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,Non-Residential Alteration,False,34,36,25,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,Non-Residential Demolition Permit,False,23,38,30,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,Non-Residential Move Permit,False,,,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,Non-Residential New Construction,False,20,23,26,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,,,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,Non-Residential Electrical Only Permit,False,6,10,10,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,Residential Electrical Only Permit,False,4,6,10,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,Non-Residential Plumbing Only Permit,False,18,20,19,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,Residential Plumbing Only Permit,False,41,61,60,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,Residential PV Permit,False,6,7,10,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,avg_days,,Non-Residential PV Permit,False,14,16,18,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,Residential,,True,355,715,1496,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,Residential,Residential (Legacy),False,0,1,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,Residential,Residential Addition,False,28,58,102,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,Residential,Residential Alteration,False,21,36,67,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,Residential,Residential Demolition Permit,False,13,38,69,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,Residential,Residential Emergency Demo/Repair/Reconstruction,False,1,2,3,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,Residential,Residential New Construction,False,251,487,1048,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,Residential,Residential Solar Water Heater Permit,False,32,71,159,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,Residential,Residential Swimming Pool/Hot Tub/Jacuzzi,False,9,22,46,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,NonResidential/Commercial,,True,71,242,499,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,NonResidential/Commercial,Non-Res Emergency Demo/Repair/Reconstruction,False,0,0,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,NonResidential/Commercial,Non-Residential Addition,False,4,8,18,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,NonResidential/Commercial,Non-Residential Alteration,False,41,165,362,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,NonResidential/Commercial,Non-Residential Demolition Permit,False,3,4,9,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,NonResidential/Commercial,Non-Residential Move Permit,False,0,0,2,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,NonResidential/Commercial,Non-Residential New Construction,False,19,61,102,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,NonResidential/Commercial,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,4,4,5,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,Electric Only,,True,151,322,594,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,Electric Only,Non-Residential Electrical Only Permit,False,39,72,119,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,Electric Only,Residential Electrical Only Permit,False,112,250,475,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,Plumbing Only,,True,63,87,104,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,Plumbing Only,Non-Residential Plumbing Only Permit,False,10,10,15,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,Plumbing Only,Residential Plumbing Only Permit,False,53,77,89,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,PV - Residential,,True,350,632,1563,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,PV - Residential,Residential PV Permit,False,350,632,1563,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,PV - NonResidential/Commercial,,True,21,30,52,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,PV - NonResidential/Commercial,Non-Residential PV Permit,False,21,30,52,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-08,count,TOTAL,,True,1011,2028,4308,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=157906&dbid=1&repo=PublicDocuments
+2026-09,avg_days,,Residential (Legacy),False,4,5,5,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,avg_days,,Residential Addition,False,24,27,28,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,avg_days,,Residential Alteration,False,18,30,34,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,avg_days,,Residential Demolition Permit,False,19,26,31,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,avg_days,,Residential Emergency Demo/Repair/Reconstruction,False,10,14,13,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,avg_days,,Residential New Construction,False,14,21,27,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,avg_days,,Residential Solar Water Heater Permit,False,8,8,13,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,avg_days,,Residential Swimming Pool/Hot Tub/Jacuzzi,False,14,23,25,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,avg_days,,Non-Res Emergency Demo/Repair/Reconstruction,False,,41,32,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,avg_days,,NonResidential (Legacy),False,,,0,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,avg_days,,Non-Residential Addition,False,31,30,23,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,avg_days,,Non-Residential Alteration,False,29,35,25,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,avg_days,,Non-Residential Demolition Permit,False,29,35,32,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,avg_days,,Non-Residential New Construction,False,18,24,25,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,avg_days,,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,,,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,avg_days,,Non-Residential Electrical Only Permit,False,8,9,11,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,avg_days,,Residential Electrical Only Permit,False,5,6,8,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,avg_days,,Non-Residential Plumbing Only Permit,False,15,20,19,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,avg_days,,Residential Plumbing Only Permit,False,29,66,60,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,avg_days,,Residential PV Permit,False,6,7,10,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,avg_days,,Non-Residential PV Permit,False,11,14,18,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,Residential,,True,318,675,1467,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,Residential,Residential (Legacy),False,0,1,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,Residential,Residential Addition,False,25,55,107,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,Residential,Residential Alteration,False,20,34,62,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,Residential,Residential Demolition Permit,False,7,35,67,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,Residential,Residential Emergency Demo/Repair/Reconstruction,False,5,5,7,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,Residential,Residential New Construction,False,222,462,1020,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,Residential,Residential Solar Water Heater Permit,False,28,64,161,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,Residential,Residential Swimming Pool/Hot Tub/Jacuzzi,False,11,19,42,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,NonResidential/Commercial,,True,73,214,484,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,NonResidential/Commercial,Non-Res Emergency Demo/Repair/Reconstruction,False,1,1,1,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,NonResidential/Commercial,Non-Residential Addition,False,4,8,18,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,NonResidential/Commercial,Non-Residential Alteration,False,41,166,347,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,NonResidential/Commercial,Non-Residential Demolition Permit,False,4,6,11,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,NonResidential/Commercial,Non-Residential New Construction,False,19,29,102,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,NonResidential/Commercial,Non-Residential Swimming Pool/Hot Tub/Jacuzzi,False,4,4,5,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,Electric Only,,True,159,326,602,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,Electric Only,Non-Residential Electrical Only Permit,False,36,69,119,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,Electric Only,Residential Electrical Only Permit,False,123,257,483,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,Plumbing Only,,True,43,88,104,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,Plumbing Only,Non-Residential Plumbing Only Permit,False,10,10,14,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,Plumbing Only,Residential Plumbing Only Permit,False,33,78,90,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,PV - Residential,,True,354,609,1471,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,PV - Residential,Residential PV Permit,False,354,609,1471,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,PV - NonResidential/Commercial,,True,15,34,51,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,PV - NonResidential/Commercial,Non-Residential PV Permit,False,15,34,51,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
+2026-09,count,TOTAL,,True,962,1946,4179,https://records.hawaiicounty.gov/WebLink/ElectronicFile.aspx?docid=159399&dbid=1&repo=PublicDocuments
