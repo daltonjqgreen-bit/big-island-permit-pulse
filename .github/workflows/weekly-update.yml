@@ -1,9 +1,8 @@
-name: Monthly data refresh & deploy
+name: Weekly leads refresh & deploy
 
 on:
   schedule:
-    - cron: "0 18 3 * *"   # 3rd of each month, 18:00 UTC = 8:00 AM Hawaii time
-    - cron: "0 18 6 * *"   # retry on the 6th in case County files post late
+    - cron: "0 18 * * 1"   # every Monday 18:00 UTC = 8:00 AM Hawaii time (HST, no DST)
   workflow_dispatch:
   push:
     branches: [main]
@@ -39,8 +38,8 @@ jobs:
         run: |
           git config user.name "permit-pulse-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data site
-          git diff --cached --quiet || (git commit -m "Monthly data refresh $(date -u +%F)" && git push)
+          git add data site newsletter
+          git diff --cached --quiet || (git commit -m "Weekly data refresh $(date -u +%F)" && git push)
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

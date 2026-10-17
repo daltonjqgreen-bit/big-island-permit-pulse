@@ -1,0 +1,77 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Big Island Permit Pulse – every new Big Island job, every week</title>
+<meta name="description" content="Weekly Big Island construction job leads from Hawaiʻi County building permits: who's building what, where, valuation and contractor.">
+<style>
+:root{--ink:#1d2a2f;--ac:#0f766e;--sand:#f6f1e7;--line:#e2dccf;--warm:#b45309}
+*{box-sizing:border-box}body{margin:0;font:18px/1.5 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;color:var(--ink)}
+.wrap{max-width:1100px;margin:0 auto;padding:0 18px}
+header{background:var(--ink);color:#fff;padding:34px 0 30px}header h1{margin:0;font-size:clamp(28px,5vw,44px);line-height:1.15}
+header p{margin:10px 0 0;font-size:20px;opacity:.9}.tag{display:inline-block;background:var(--ac);padding:3px 10px;border-radius:20px;font-size:14px;margin-bottom:10px}
+section{padding:30px 0;border-bottom:1px solid var(--line)}h2{font-size:clamp(24px,3.5vw,30px);margin:0 0 6px}.sub{color:#5b6a70;font-size:16px;margin:0 0 18px}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px}
+.stat{background:var(--sand);border-radius:12px;padding:16px;text-align:center}.stat b{display:block;font-size:44px;color:var(--ac);line-height:1.1}
+.jobs{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:14px}
+.job{border:1px solid var(--line);border-left:6px solid var(--ac);border-radius:10px;padding:14px}
+.jv{font-size:32px;font-weight:800;color:var(--ac)}.jw{font-weight:700}.ja{font-size:16px}.jc{font-size:14px;color:#5b6a70;margin-top:4px}
+.chart{width:100%;height:auto;max-width:760px}.chart .lab{font-size:20px;fill:var(--ink)}.chart .val{font-size:22px;font-weight:800;fill:var(--ink)}
+.wait{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:18px}.wb{border-radius:12px;padding:18px;text-align:center}
+.wb b{display:block;font-size:56px;line-height:1.05}.w1{background:var(--sand)}.w2{background:#fff8ed;border:3px solid var(--warm)}.w2 b{color:var(--warm)}
+.est{display:inline-block;background:var(--warm);color:#fff;font-size:13px;font-weight:700;padding:2px 8px;border-radius:10px}
+details{font-size:16px;background:#fafafa;border-radius:8px;padding:10px 14px}
+.filters{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px;margin-bottom:12px}
+.filters label{font-size:14px;font-weight:600}.filters input,.filters select{width:100%;padding:10px;font-size:16px;border:1px solid #bbb;border-radius:8px}
+.tw{overflow-x:auto}table{width:100%;border-collapse:collapse;font-size:16px}th,td{text-align:left;padding:9px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+th{background:var(--sand);position:sticky;top:0}.r{text-align:right;white-space:nowrap}td.d{white-space:nowrap}.rk{font-weight:800;color:var(--ac);width:2em}
+.more{margin-top:10px;padding:10px 16px;font-size:16px;border:0;border-radius:8px;background:var(--ac);color:#fff;font-weight:700}
+.lbs{display:grid;grid-template-columns:1fr 1fr;gap:24px}
+.cta{display:grid;grid-template-columns:2fr 1fr;gap:18px}.box{border:3px dashed var(--ac);border-radius:12px;padding:18px}.box input{padding:12px;font-size:17px;border:1px solid #bbb;border-radius:8px;width:62%}
+.box button{padding:12px 16px;font-size:17px;border:0;border-radius:8px;background:var(--ac);color:#fff;font-weight:700}.sp{border-color:var(--warm);background:#fff8ed}
+footer{font-size:14px;color:#5b6a70;padding:20px 0 40px}
+@media(max-width:760px){.wait,.lbs,.cta{grid-template-columns:1fr}.box input{width:100%;margin-bottom:8px}
+ table.leads thead{display:none}table.leads tr{display:block;border-bottom:2px solid var(--line);padding:8px 0}table.leads td{display:block;border:0;padding:2px 4px}table.leads td.r{text-align:left;font-weight:800;font-size:20px;color:var(--ac)}}
+</style></head><body>
+<header><div class="wrap"><span class="tag">Weekly · free</span><h1>Every new Big Island job, every week, from the County record</h1>
+<p>New builds, additions, alterations, pools and solar permitted on Hawaiʻi Island: who's building what, where, and for how much.</p></div></header>
+<main class="wrap">
+<section><h2>This week: {{WEEK_RANGE}}</h2><p class="sub">Latest week of permits the County has published.</p>
+<div class="stats"><div class="stat"><b>{{WEEK_NEW}}</b>new builds</div><div class="stat"><b>{{WEEK_ADD}}</b>additions &amp; alterations</div>
+<div class="stat"><b>{{WEEK_POOL}}</b>pools &amp; spas</div><div class="stat"><b>{{WEEK_SOLAR}}</b>solar</div><div class="stat"><b>{{WEEK_VALUE}}</b>declared value (non-solar)</div></div></section>
+<section><h2>This week's biggest jobs</h2><p class="sub">Largest declared valuations, excluding solar.</p><div class="jobs">{{BIG_JOBS}}</div></section>
+<section id="leads"><h2>Search every lead</h2><p class="sub">{{N_LEADS}} permits from the last 12 months. Filter by district, work type, value, contractor or date.</p>
+<div class="filters">
+<div><label for="fq">Search (address, contractor, use)</label><input id="fq" type="search" placeholder="e.g. Kailua, dwelling, Isemoto"></div>
+<div><label for="fd">District</label><select id="fd"><option value="">All districts</option>{{DISTRICT_OPTS}}</select></div>
+<div><label for="fw">Work type</label><select id="fw"><option value="">All types</option><option>New build</option><option>Addition</option><option>Alteration</option><option>Pool / spa</option><option>Solar</option></select></div>
+<div><label for="fv">Valuation</label><select id="fv"><option value="0">Any value</option><option value="50000">$50K+</option><option value="250000">$250K+</option><option value="500000">$500K+</option><option value="1000000">$1M+</option></select></div>
+<div><label for="fc">Contractor</label><select id="fc"><option value="">Anyone</option><option value="lic">Licensed contractor</option><option value="ob">Owner-builder</option></select></div>
+<div><label for="ff">Issued since</label><input id="ff" type="date"></div></div>
+<p id="cnt" class="sub"></p>
+<div class="tw"><table class="leads"><thead><tr><th>Issued</th><th>District</th><th>Address</th><th>Work</th><th class="r">Value</th><th>Contractor</th></tr></thead><tbody id="tb"></tbody></table></div>
+<button class="more" id="more">Show more</button></section>
+<section><h2>How long permits really take</h2><p class="sub">Residential new construction.</p>
+<div class="wait"><div class="wb w1"><b>{{COUNTY_DAYS}} days</b>County's reported average ({{MLATEST}} report, last 3 months)</div>
+<div class="wb w2"><b>~{{REAL_MEDIAN}} days</b><span class="est">ESTIMATE</span> our estimated real median, application to issue</div></div>
+{{CHART_WAIT}}
+<p>Half of new homes took between <b>{{Q1}} and {{Q3}} days</b> (estimated). <b>{{OVER90}}%</b> took over 90 days; <b>{{OVER180}}%</b> over 180 days.</p>
+<details><summary><b>How we estimate this</b></summary><p>The County's number counts only permits that were <b>not returned for corrections</b> (<a href="{{MDOC}}">County metrics report</a>), so it leaves out the slow ones. The County does not publish application dates per permit, so we estimate them: permit numbers (e.g. PW.B2025-002500) are assigned in order through each year, so we place each application date proportionally within its year (number ÷ year's highest number × days in year). Wait = issue date − estimated application date, for {{N_LAGS}} new-dwelling permits issued in the last 12 months. This assumes applications arrive at an even pace; it is an estimate, not a County figure.</p></details></section>
+<section><h2>New homes permitted each month</h2><p class="sub">New dwelling permits issued, last 12 months.</p>{{CHART_HOMES}}</section>
+<section><h2>Where the jobs are</h2><p class="sub">Non-solar permits issued in the last 12 months, by district.</p>{{CHART_DIST}}</section>
+<section><h2>Contractor leaderboard</h2><p class="sub">Licensed contractors, last 12 months, new builds / additions / alterations / pools (solar listed separately).</p>
+<div class="lbs"><div><h3>Most permits</h3><table>{{LB_COUNT}}</table></div><div><h3>Most declared value</h3><table>{{LB_VALUE}}</table></div></div>
+<h3>Top solar installers</h3><table>{{LB_SOLAR}}</table></section>
+<section class="cta"><div class="box"><h2>Get the leads every Monday</h2><p class="sub">This week's new jobs by district, the biggest projects, and the real wait. Free.</p>
+<form onsubmit="alert('Newsletter signup coming soon');return false"><input type="email" placeholder="you@example.com" aria-label="email"> <button>Subscribe</button></form></div>
+<div class="box sp"><h2>Sponsor this spot</h2><p class="sub">Reach Big Island contractors, subs and owner-builders every week. Lumber yards, suppliers, bonding &amp; insurance welcome.</p><a href="#">Sponsor this →</a></div></section>
+<footer>Data: County of Hawaiʻi Dept. of Public Works, Building Division public records (weekly and monthly "Building Permits Extract" files, monthly "Building Metrics" reports). {{N_PERMITS}} permits issued {{RANGE}}. County files post in monthly batches, so the newest week can be a few weeks old. Owner names are omitted. Not affiliated with the County. Built {{BUILT}}.</footer>
+</main>
+<script>
+const L={{LEADS_JSON}};const $=id=>document.getElementById(id);let shown=50;
+const fm=v=>v==null?'n/a':v>=1e6?'$'+(v/1e6).toFixed(1)+'M':v>=1e3?'$'+Math.round(v/1e3).toLocaleString()+'K':'$'+Math.round(v);
+const es=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function f(){const q=$('fq').value.toLowerCase(),d=$('fd').value,w=$('fw').value,v=+$('fv').value,c=$('fc').value,s=$('ff').value;
+return L.filter(r=>(!d||r.di===d)&&(!w||r.w===w)&&(!v||(r.v||0)>=v)&&(!s||r.d>=s)&&(!c||(c==='lic'?r.c.includes('CT-'):r.c==='Owner-Builder'))&&(!q||(r.a+' '+r.c+' '+r.u+' '+r.n).toLowerCase().includes(q)))}
+function draw(){const R=f();$('cnt').textContent=R.length.toLocaleString()+' matching permits';
+$('tb').innerHTML=R.slice(0,shown).map(r=>`<tr><td class="d">${r.d}</td><td>${es(r.di)}</td><td>${es(r.a)}</td><td><b>${es(r.w)}</b> · ${es(r.u)}</td><td class="r">${fm(r.v)}</td><td>${es(r.c)}</td></tr>`).join('');
+$('more').style.display=R.length>shown?'':'none'}
+['fq','fd','fw','fv','fc','ff'].forEach(i=>$(i).addEventListener('input',()=>{shown=50;draw()}));$('more').onclick=()=>{shown+=100;draw()};draw();
+</script></body></html>
