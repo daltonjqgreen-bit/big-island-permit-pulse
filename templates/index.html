@@ -26,11 +26,12 @@ th{background:var(--sand);position:sticky;top:0}.r{text-align:right;white-space:
 .lbs{display:grid;grid-template-columns:1fr 1fr;gap:24px}
 .cta{display:grid;grid-template-columns:2fr 1fr;gap:18px}.box{border:3px dashed var(--ac);border-radius:12px;padding:18px}.box input{padding:12px;font-size:17px;border:1px solid #bbb;border-radius:8px;width:62%}
 .box button{padding:12px 16px;font-size:17px;border:0;border-radius:8px;background:var(--ac);color:#fff;font-weight:700}.sp{border-color:var(--warm);background:#fff8ed}
+.gw{color:#fff;font-size:15px;font-weight:700;margin-left:8px}.sublink{font-size:18px;font-weight:700;color:var(--ac)}.fb{margin:10px 0 0}
 footer{font-size:14px;color:#5b6a70;padding:20px 0 40px}
 @media(max-width:760px){.wait,.lbs,.cta{grid-template-columns:1fr}.box input{width:100%;margin-bottom:8px}
  table.leads thead{display:none}table.leads tr{display:block;border-bottom:2px solid var(--line);padding:8px 0}table.leads td{display:block;border:0;padding:2px 4px}table.leads td.r{text-align:left;font-weight:800;font-size:20px;color:var(--ac)}}
 </style></head><body>
-<header><div class="wrap"><span class="tag">Weekly · free</span><h1>Every new Big Island job, every week, from the County record</h1>
+<header><div class="wrap"><span class="tag">Weekly · free</span> <a class="gw" href="https://bigislandpermitpulse.beehiiv.com/subscribe">Get it weekly →</a><h1>Every new Big Island job, every week, from the County record</h1>
 <p>New builds, additions, alterations, pools and solar permitted on Hawaiʻi Island: who's building what, where, and for how much.</p></div></header>
 <main class="wrap">
 <section><h2>This week: {{WEEK_RANGE}}</h2><p class="sub">Latest week of permits the County has published.</p>
@@ -60,7 +61,8 @@ footer{font-size:14px;color:#5b6a70;padding:20px 0 40px}
 <div class="lbs"><div><h3>Most permits</h3><table>{{LB_COUNT}}</table></div><div><h3>Most declared value</h3><table>{{LB_VALUE}}</table></div></div>
 <h3>Top solar installers</h3><table>{{LB_SOLAR}}</table></section>
 <section class="cta"><div class="box"><h2>Get the leads every Monday</h2><p class="sub">This week's new jobs by district, the biggest projects, and the real wait. Free.</p>
-<form onsubmit="alert('Newsletter signup coming soon');return false"><input type="email" placeholder="you@example.com" aria-label="email"> <button>Subscribe</button></form></div>
+<script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="40fb20bd-33b0-48e8-b172-a114872fdb92"></script>
+<p class="fb"><a href="https://bigislandpermitpulse.beehiiv.com/subscribe" class="sublink">Subscribe free →</a></p></div>
 <div class="box sp"><h2>Sponsor this spot</h2><p class="sub">Reach Big Island contractors, subs and owner-builders every week. Lumber yards, suppliers, bonding &amp; insurance welcome.</p><a href="#">Sponsor this →</a></div></section>
 <footer>Data: County of Hawaiʻi Dept. of Public Works, Building Division public records (weekly and monthly "Building Permits Extract" files, monthly "Building Metrics" reports). {{N_PERMITS}} permits issued {{RANGE}}. County files post in monthly batches, so the newest week can be a few weeks old. Owner names are omitted. Not affiliated with the County. Built {{BUILT}}.</footer>
 </main>
