@@ -1,18 +1,18 @@
-# Permit Pulse: 21 new Big Island jobs, Sep 24, 2026 – Sep 30, 2026
+# Permit Pulse: 36 new Big Island jobs, Oct 24, 2026 – Oct 30, 2026
 
-Every new Big Island job, every week, from the County record. This week: **15 new builds**, **6 additions/alterations**, **0 pools**, **16 solar** permits issued. Declared value (non-solar): **$10.6M**.
+Every new Big Island job, every week, from the County record. This week: **17 new builds**, **18 additions/alterations**, **1 pools**, **45 solar** permits issued. Declared value (non-solar): **$7.7M**.
 
 ## This week's biggest jobs
 
-1. **$3.5M** — Alteration, Additions and Structural Alterations — 67-1125 MAMALAHOA HWY HI, South Kohala — Hawaiian Dredging Construction Company Inc (CT-24018)
-2. **$900K** — Alteration, Additions and Structural Alterations — 371 E MAKAALA ST HI, South Hilo — D L DOWNING GEN CONTRACTOR INC (CT-10231)
-3. **$700K** — Alteration, Additions and Structural Alterations — 3196 KANOELEHUA AVE HI, South Hilo — Isemoto Contracting Co Ltd (CT-1036)
-4. **$564K** — New build, Single-Family Dwelling — 62-1750 OHIAKU PL HI, South Kohala — Owner-Builder
-5. **$557K** — New build, Single-Family Dwelling — 1800 IOLANA PL HI, South Hilo — Owner-Builder
+1. **$1.6M** — New build, Single-Family Dwelling — 73-4602 KUKUKI ST HI, North Kona — PC CONSTRUCTION LLC (CT-35516)
+2. **$885K** — Alteration, Additions and Structural Alterations — 74-517 HONOKOHAU ST HI, North Kona — HPM CONSTRUCTION LLC (CT-35753)
+3. **$625K** — New build, Single-Family Dwelling — 2910 KAUMANA DR, South Hilo — Owner-Builder
+4. **$500K** — New build, Single-Family Dwelling — 56-828 WAIOLU PL HI, North Kohala — Owner-Builder
+5. **$451K** — New build, Single-Family Dwelling — 69-1969 PUAKO BEACH DR HI, South Kohala — REDWATER CONSTRUCTION LLC (CT-25433)
 
 ## Real wait check
 
-The County reports **14 days** for residential new construction (September 2026 report), but that only counts permits never sent back for corrections. Our estimate of the real application-to-issue median: **~86 days** (estimate; method on the site).
+The County reports **15 days** for residential new construction (October 2026 report), but that only counts permits never sent back for corrections. Our estimate of the real application-to-issue median: **~84 days** (estimate; method on the site).
 
 ## [Sponsor slot]
 
@@ -20,44 +20,65 @@ _Your message to Big Island contractors here. Reply to sponsor._
 
 ## All new jobs by district
 
-### South Hilo (7)
+### North Kona (19)
 
-- Sep 28, 2026 · Alteration · Additions and Structural Alterations · 371 E MAKAALA ST HI · $900K · D L DOWNING GEN CONTRACTOR INC (CT-10231)
-- Sep 28, 2026 · Alteration · Additions and Structural Alterations · 3196 KANOELEHUA AVE HI · $700K · Isemoto Contracting Co Ltd (CT-1036)
-- Sep 28, 2026 · New build · Single-Family Dwelling · 1800 IOLANA PL HI · $557K · Owner-Builder
-- Sep 28, 2026 · New build · Single-Family Dwelling · 3734 UKA PL HI · $453K · Hanale Builders LLC (CT-33160)
-- Sep 30, 2026 · New build · Single-Family Dwelling · 25 HOKULANI ST HI · $275K · Owner-Builder
-- Sep 28, 2026 · New build · Accessory · 4210 PUEO PL HI · $227K · Innovative Island Construction LLC (CT-36584)
-- Sep 28, 2026 · Addition · Single-Family Dwelling · 324 NOHEA ST HI · $97K · Owner-Builder
+- Oct 29, 2026 · New build · Single-Family Dwelling · 73-4602 KUKUKI ST HI · $1.6M · PC CONSTRUCTION LLC (CT-35516)
+- Oct 26, 2026 · Alteration · Additions and Structural Alterations · 74-517 HONOKOHAU ST HI · $885K · HPM CONSTRUCTION LLC (CT-35753)
+- Oct 28, 2026 · Pool / spa · Additions and Structural Alterations · 74-4724 WAIHA LOOP HI · $115K · John E Totah (CT-9231)
+- Oct 29, 2026 · Alteration · Additions and Structural Alterations · 73-5648 OLOWALU ST HI · $100K · Kona Built Construction LLC (CT-37622)
+- Oct 28, 2026 · Alteration · Additions and Structural Alterations · 75-5342 LAAULU RD HI · $75K · 
+- Oct 29, 2026 · Alteration · Additions and Structural Alterations · 75-5766 KUAKINI HWY 706 HI · $44K · National Renovations (CT-39087)
+- Oct 29, 2026 · Alteration · Additions and Structural Alterations · 75-5766 KUAKINI HWY 706 HI · $44K · National Renovations (CT-39087)
+- Oct 29, 2026 · Alteration · Additions and Structural Alterations · 75-5766 KUAKINI HWY 706 HI · $44K · National Renovations (CT-39087)
+- Oct 29, 2026 · Alteration · Additions and Structural Alterations · 75-5766 KUAKINI HWY 706 HI · $44K · National Renovations (CT-39087)
+- Oct 29, 2026 · Alteration · Additions and Structural Alterations · 75-5766 KUAKINI HWY 704 HI · $44K · National Renovations (CT-39087)
+- Oct 29, 2026 · Alteration · Additions and Structural Alterations · 75-5766 KUAKINI HWY 706 HI · $44K · National Renovations (CT-39087)
+- Oct 29, 2026 · Alteration · Additions and Structural Alterations · 75-5766 KUAKINI HWY 706 HI · $44K · National Renovations (CT-39087)
+- Oct 29, 2026 · Alteration · Additions and Structural Alterations · 75-5766 KUAKINI HWY 706 HI · $44K · National Renovations (CT-39087)
+- Oct 29, 2026 · Alteration · Additions and Structural Alterations · 75-5766 KUAKINI HWY 706 HI · $44K · National Renovations (CT-39087)
+- Oct 29, 2026 · Alteration · Additions and Structural Alterations · 75-5766 KUAKINI HWY 702 HI · $44K · National Renovations (CT-39087)
+- Oct 29, 2026 · Alteration · Additions and Structural Alterations · 75-5766 KUAKINI HWY 201 HI · $44K · National Renovations (CT-39087)
+- Oct 28, 2026 · Alteration · Additions and Structural Alterations · 75-5766 KUAKINI HWY 706 HI · $44K · National Renovations (CT-39087)
+- Oct 28, 2026 · Alteration · Additions and Structural Alterations · 75-5766 KUAKINI HWY 605 HI · $44K · National Renovations (CT-39087)
+- Oct 29, 2026 · Alteration · Single-Family Dwelling · 72-107 LEI OHAI PL HI · $16K · Queen Construction & Masonry Inc (CT-18533)
 
-### Puna (6)
+### Puna (10)
 
-- Sep 29, 2026 · New build · Farm Dwelling · 14-4821 SADILECK RD HI · $550K · Owner-Builder
-- Sep 30, 2026 · New build · Single-Family Dwelling · 15-1577 1ST AVE HI · $534K · Owner-Builder
-- Sep 29, 2026 · New build · Single-Family Dwelling · 11-3174 MOKUNA ST · $264K · Henry H Uga (CT-31272)
-- Sep 29, 2026 · New build · Single-Family Dwelling · 15-1958 23RD AVE HI · $250K · Sean P K Lai dba Lai Construction (CT-24690)
-- Sep 30, 2026 · New build · Single-Family Dwelling · 16-2082 OHIA DR · $244K · Owner-Builder
-- Sep 28, 2026 · New build · Single-Family Dwelling · 15-596 KAHAKAI BLVD HI · $220K · Caraveli Construction (CT-36282)
+- Oct 28, 2026 · New build · Single-Family Dwelling · 15-1713 10TH AVE HI · $380K · Ha`aheo Construction LLC (CT-34185)
+- Oct 28, 2026 · New build · Single-Family Dwelling · 15-1510 8TH AVE HI · $287K · Ola Builders LLC (CT-38472)
+- Oct 28, 2026 · New build · Single-Family Dwelling · 15-1461 18TH AVE · $270K · Ola Builders LLC (CT-38472)
+- Oct 29, 2026 · New build · Single-Family Dwelling · 15-1488 2ND AVE HI · $233K · Owner-Builder
+- Oct 29, 2026 · New build · Single-Family Dwelling · 16-404 AINALOA BLVD · $200K · MALULIKU GENERAL COTRACTING LLC
+- Oct 30, 2026 · New build · Single-Family Dwelling · 16-1084 KOLOA MAOLI RD HI · $195K · Owner-Builder
+- Oct 26, 2026 · New build · Single-Family Dwelling · 13-3500 KUMAKAHI ST HI · $181K · Owner-Builder
+- Oct 26, 2026 · New build · Single-Family Dwelling · 16-2128 PUKALANI DR HI · $180K · Craig L Eriksson (CT-26315)
+- Oct 26, 2026 · New build · Single-Family Dwelling · 11-3925 NAHELENANI ST · $165K · Pacific Rim Construction LLC (CT-34920)
+- Oct 27, 2026 · New build · Accessory · 11-3491 LEHUA ST HI · $41K · Owner-Builder
 
-### North Kona (4)
+### South Hilo (2)
 
-- Sep 29, 2026 · New build · Additional Farm Dwelling · 73-4672 KOHANAIKI RD HI · $526K · Owner-Builder
-- Sep 28, 2026 · New build · Single-Family Dwelling · 73-4365 MAKAHI ST HI · $350K · MONARCH INC (CT-35749)
-- Sep 30, 2026 · Addition · Single-Family Dwelling · 75-300 HOENE ST HI · $45K · Owner-Builder
-- Sep 28, 2026 · Addition · Single-Family Dwelling · 75-678 LALII PL HI · $26K · Owner-Builder
-
-### South Kohala (2)
-
-- Sep 28, 2026 · Alteration · Additions and Structural Alterations · 67-1125 MAMALAHOA HWY HI · $3.5M · Hawaiian Dredging Construction Company Inc (CT-24018)
-- Sep 30, 2026 · New build · Single-Family Dwelling · 62-1750 OHIAKU PL HI · $564K · Owner-Builder
-
-### South Kona (1)
-
-- Sep 29, 2026 · New build · Single-Family Dwelling · 88-1504 EONO AVE HI · $266K · Owner-Builder
+- Oct 26, 2026 · New build · Single-Family Dwelling · 2910 KAUMANA DR · $625K · Owner-Builder
+- Oct 26, 2026 · Addition · Accessory · 785 LA HOU ST HI · $64K · Owner-Builder
 
 ### North Kohala (1)
 
-- Sep 28, 2026 · New build · Single-Family Dwelling · 54-2537 KYNNERSLEY RD HI · $85K · Owner-Builder
+- Oct 27, 2026 · New build · Single-Family Dwelling · 56-828 WAIOLU PL HI · $500K · Owner-Builder
+
+### South Kohala (1)
+
+- Oct 26, 2026 · New build · Single-Family Dwelling · 69-1969 PUAKO BEACH DR HI · $451K · REDWATER CONSTRUCTION LLC (CT-25433)
+
+### North Hilo (1)
+
+- Oct 29, 2026 · New build · Single-Family Dwelling · 34-4330 PALI NANA RD HI · $282K · Hana Lima Builders LLC (CT-34456)
+
+### South Kona (1)
+
+- Oct 30, 2026 · New build · Accessory · 88-1579 MOANA DR HI · $154K · Ka'u Diversified Inc. (CT-27836)
+
+### Hamakua (1)
+
+- Oct 26, 2026 · New build · Accessory · 42-1070 KOHOLALELE RD HI · $150K · Kama'aina Custom Homes (CT-34467)
 
 Full searchable list: https://daltonjqgreen-bit.github.io/big-island-permit-pulse/
 

@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-03T00:43",
- "permit_count": 7974,
+ "generated_at": "2026-11-10T01:20",
+ "permit_count": 8402,
  "issue_date_range": [
   "2025-01-02",
-  "2026-09-30"
+  "2026-10-30"
  ],
  "by_month_scope": {
   "2025-01": {
@@ -254,18 +254,32 @@
    "Solar Water Heater": 6,
    "Plumbing Only": 1,
    "Non-Res Emergency Demo/Repair/Reconstruction": 1
+  },
+  "2026-10": {
+   "Photovoltaic": 194,
+   "Emergency Demo/Repair/Reconstruction": 3,
+   "Electrical Only": 65,
+   "New": 83,
+   "Alteration": 40,
+   "Solar Water Heater": 12,
+   "Swimming Pool/Hot Tub/Jacuzzi": 4,
+   "Plumbing Only": 13,
+   "Addition": 4,
+   "Demolition": 9,
+   "Non-Res Emergency Demo/Repair/Reconstruction": 1
   }
  },
  "by_district": {
-  "Puna": 2419,
-  "North Kona": 1935,
-  "South Hilo": 1267,
-  "South Kohala": 1075,
-  "South Kona": 364,
-  "North Kohala": 342,
-  "Kau": 336,
-  "Hamakua": 160,
-  "North Hilo": 76
+  "Puna": 2541,
+  "North Kona": 2052,
+  "South Hilo": 1338,
+  "South Kohala": 1110,
+  "South Kona": 384,
+  "Kau": 365,
+  "North Kohala": 360,
+  "Hamakua": 167,
+  "North Hilo": 83,
+  "Unknown": 2
  },
- "latest_metrics_month": "2026-09"
+ "latest_metrics_month": "2026-10"
 }
